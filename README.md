@@ -22,7 +22,7 @@ Busco oportunidades de **estágio em Desenvolvimento de Software**, com foco em 
 
 ### 🚀 Projetos Destacados  
 
-#### 1. [Sistema de Encoding de Vídeos](https://github.com/](https://github.com/ruan89cf/mp4_to_hls)  
+#### 1. [Sistema de Encoding de Vídeos](https://github.com/](https://github.com/ruan89cf/mp4_to_hls/)  
 - **Tecnologias:** Shell, Java, PHP, MySQL, FFmpeg, TheMovieDB API  
 - Script automatizado para conversão de vídeos, integrado a um sistema web para gerenciamento de arquivos.  
 
