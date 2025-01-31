@@ -1,55 +1,62 @@
-# 👋 Olá, eu sou Ruan Francisco Cabral Freitas  
+# Olá, eu sou o Ruan Cabral 👋  
+**Estudante de Análise e Desenvolvimento de Sistemas | Aspirante a Desenvolvedor Full-Stack**
 
-🎯 **Estudante de Análise e Desenvolvimento de Sistemas** | 💻 **Foco em Java, Python e Tecnologias Web** | ☁️ **Entusiasta de Computação em Nuvem**  
-
----
-
-## 📌 Sobre mim  
-
-Sou estudante de **Análise e Desenvolvimento de Sistemas** (2º período, Estácio de Sá), com previsão de conclusão em **2026.2**. Tenho experiência com **Java, Python, PHP, HTML, CSS, MySQL e AWS** e busco aprimorar minhas habilidades em desenvolvimento de software.  
-
-Atualmente, estudo **Java** com foco em **desenvolvimento de servidores privados L2J**, aplicando os conhecimentos adquiridos no curso da Udemy. Também estou me aprofundando em **computação em nuvem**, preparando-me para a certificação **AWS CLF-C02**.  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ruanfcabral/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ruan89cf)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ruan89c@gmail.com)
 
 ---
 
-## 🚀 Tecnologias & Habilidades  
-
-- **Linguagens**: Java, Python, PHP, HTML, CSS, JavaScript, C++  
-- **Banco de Dados**: MySQL, SQL Server  
-- **Ferramentas & Frameworks**: Bootstrap, Shell Script, Git/GitHub, FFmpeg  
-- **Outros conhecimentos**: Computação em Nuvem (AWS), Redes e Infraestrutura, Fibras Ópticas  
+### 🎯 Objetivo  
+Busco oportunidades de **estágio em Desenvolvimento de Software**, com foco em **Java, Python e tecnologias web**, para aplicar meus conhecimentos técnicos e contribuir em projetos desafiadores enquanto aprimoro minhas habilidades.
 
 ---
 
-## 📌 Projetos  
-
-🔹 **[Encoding de Vídeos](https://github.com/)** – Criado em **Shell Script** e depois reescrito em **Java**, codifica vídeos (360p-1080p) e os exibe no **JWPlayer**. Integra com PHP, MySQL e API TheMovieDB.  
-
-🔹 **[Sistema L2J](https://l2adena.com/)** – Desenvolvimento de funcionalidades para servidor privado **L2J**, aplicando conceitos avançados de **Java**.  
-
-🔹 **[Website Projeto Faculdade](https://tudocinema.w3spaces.com/)** – Site responsivo criado com **HTML, CSS e Bootstrap**, focado em usabilidade e design.  
+### 💻 Habilidades Técnicas  
+- **Linguagens:** Java, Python, PHP, HTML, CSS  
+- **Frameworks/Tools:** Bootstrap, AWS (CLF-C02), MySQL, FFmpeg  
+- **Cloud:** AWS Discovery Day, conceitos de infraestrutura e serviços em nuvem  
+- **Outros:** Shell Script, Git, Design Responsivo  
 
 ---
 
-## 📜 Formação & Certificações  
+### 🚀 Projetos Destacados  
 
-🎓 **Análise e Desenvolvimento de Sistemas** – 2º período, **Estácio de Sá** (Previsão: 2026.2)  
-📜 **AWS Exam Prep (CLF-C02)** – AWS Skills Center (2024)  
-☁️ **Computação em Nuvem** – AWS Discovery Day (KA Solutions)  
-👨‍💻 **Programação** – Java, Python, PHP, HTML, CSS (W3Schools/Udemy)  
+#### 1. [Sistema de Encoding de Vídeos](https://github.com/)  
+- **Tecnologias:** Shell, Java, PHP, MySQL, FFmpeg, TheMovieDB API  
+- Script automatizado para conversão de vídeos, integrado a um sistema web para gerenciamento de arquivos.  
+
+#### 2. [Servidor L2J (Lineage 2)](https://l2adena.com/)  
+- **Tecnologias:** Java  
+- Contribuição ativa no desenvolvimento de um servidor privado, implementando novas funcionalidades e otimizações.  
+
+#### 3. [Website Responsivo para Projeto Acadêmico](https://tudocinema.w3spaces.com/)  
+- **Tecnologias:** HTML, CSS, Bootstrap  
+- Site adaptável a diferentes dispositivos, focado em usabilidade e design moderno.  
 
 ---
 
-## 📖 Leituras  
-
-📘 **Domain-Driven Design** – Eric Evans  
+### 📚 Formação & Certificações  
+- **Análise e Desenvolvimento de Sistemas** (Estácio de Sá | Conclusão prevista: 2026.2)  
+- **AWS Cloud Practitioner (CLF-C02)** (AWS Skills Center)  
+- **Programação em Java, Python, PHP** (W3Schools/Udemy)  
+- **Computação em Nuvem** (KA Solutions)  
+- **Inglês** (Nível intermediário | MICROLINS)  
 
 ---
 
-## 🌍 Onde me encontrar  
+### 📖 Leituras Inspiradoras  
+- **"Domain-Driven Design"** (Eric Evans)  
+- Interesse contínuo em arquitetura de software e melhores práticas de desenvolvimento.  
 
-📧 **Email:** ruan89c@gmail.com  
-🔗 **LinkedIn:** [linkedin.com/in/ruanfcabral](https://www.linkedin.com/in/ruanfcabral/)  
-💻 **GitHub:** [github.com/ruan89cf](https://github.com/ruan89cf/)  
+---
 
-🚀 **Aberto para oportunidades de estágio!**  
+### 🌟 Informações Adicionais  
+- **Disponibilidade:** Horário flexível e abertura para mudança de estado ou país.  
+- **Habilitação:** Categoria A/B.  
+- **Soft Skills:** Autodidata, organizado e comprometido com soluções eficientes.  
+
+---
+
+✨ **Vamos conversar?**  
+Estou sempre aberto a colaborações, feedbacks e novas oportunidades. Sinta-se à vontade para entrar em contato via [LinkedIn](https://www.linkedin.com/in/ruanfcabral/) ou [e-mail](mailto:ruan89c@gmail.com)!
