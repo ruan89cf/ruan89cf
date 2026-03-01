@@ -8,7 +8,7 @@
 ---
 
 ### 🎯 Objetivo  
-Busco oportunidades de **estágio em Desenvolvimento de Software**, com foco em **Java, Python e tecnologias web**, para aplicar meus conhecimentos técnicos e contribuir em projetos desafiadores enquanto aprimoro minhas habilidades.
+Busco oportunidades de **estágio em Desenvolvimento de Software**, com foco em **Java, Python e tecnologias web**, para aplicar meus conhecimentos tenho alguns projetos abaixo que criei para aprimorar minhas habilidades.
 
 ---
 
@@ -36,27 +36,6 @@ Busco oportunidades de **estágio em Desenvolvimento de Software**, com foco em 
 
 ---
 
-### 📚 Formação & Certificações  
-- **Análise e Desenvolvimento de Sistemas** (Estácio de Sá | Conclusão prevista: 2026.2)  
-- **AWS Cloud Practitioner (CLF-C02)** (AWS Skills Center)  
-- **Programação em Java, Python, PHP** (W3Schools/Udemy)  
-- **Computação em Nuvem** (KA Solutions)  
-- **Inglês** (Nível intermediário | MICROLINS)  
-
----
-
-### 📖 Leituras Inspiradoras  
-- **"Domain-Driven Design"** (Eric Evans)  
-- Interesse contínuo em arquitetura de software e melhores práticas de desenvolvimento.  
-
----
-
-### 🌟 Informações Adicionais  
-- **Disponibilidade:** Horário flexível e abertura para mudança de estado ou país.  
-- **Habilitação:** Categoria A/B.  
-- **Soft Skills:** Autodidata, organizado e comprometido com soluções eficientes.  
-
----
 
 ✨ **Vamos conversar?**  
 Estou sempre aberto a colaborações, feedbacks e novas oportunidades. Sinta-se à vontade para entrar em contato via [LinkedIn](https://www.linkedin.com/in/ruanfcabral/) ou [e-mail](mailto:ruan89c@gmail.com)!
