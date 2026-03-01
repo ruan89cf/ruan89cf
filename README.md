@@ -10,16 +10,6 @@
 ### 🎯 Objetivo  
 Busco oportunidades de **estágio em Desenvolvimento de Software**, com foco em **Java, Python e tecnologias web**, para aplicar meus conhecimentos tenho alguns projetos abaixo que criei para aprimorar minhas habilidades.
 
----
-
-### 💻 Habilidades Técnicas  
-- **Linguagens:** Java, Python, PHP, HTML, CSS  
-- **Frameworks/Tools:** Bootstrap, AWS (CLF-C02), MySQL, FFmpeg  
-- **Cloud:** AWS Discovery Day, conceitos de infraestrutura e serviços em nuvem  
-- **Outros:** Shell Script, Git, Design Responsivo  
-
----
-
 ### 🚀 Projetos Destacados  
 
 #### 1. [Sistema de Encoding de Vídeos](https://github.com/ruan89cf/mp4_to_hls/)  
