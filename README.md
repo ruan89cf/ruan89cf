@@ -12,10 +12,6 @@ Busco oportunidades de **estágio em Desenvolvimento de Software**, com foco em 
 
 ### 🚀 Projetos Destacados  
 
-#### v0.1.0 — 03-03-2026 [Website para Estágiarios - ](https://github.com/ruan89cf/stargio) 
-- **Tecnologias:** PHP, SQL, NOSQL, HTML, CSS, API Restful, Javascript.  
-- O intuito é criar um Website para candidatos igual a mim conseguirem uma vaga de estágio, vi que existe uma saturação de websites e quero contrubir e concentrar as vagas num só lugar.
-
 
 #### 1. [Sistema de Encoding de Vídeos](https://github.com/ruan89cf/mp4_to_hls/)  
 - **Tecnologias:** Shell, Java, PHP, MySQL, FFmpeg, TheMovieDB API  
@@ -29,6 +25,13 @@ Busco oportunidades de **estágio em Desenvolvimento de Software**, com foco em 
 - **Tecnologias:** HTML, CSS, Bootstrap  
 - Site adaptável a diferentes dispositivos, focado em usabilidade e design moderno.  
 
+
+#### 4. [Website para Estágiarios - ](https://github.com/ruan89cf/stargio) 
+#### v0.1.0 — 03-03-2026 - Inicio do projeto.
+
+- **Tecnologias:** PHP, SQL, NOSQL, HTML, CSS, API Restful, Javascript.  
+- O intuito é criar um Website para candidatos igual a mim conseguirem uma vaga de estágio, vi que existe uma saturação de websites e quero contrubir e concentrar as vagas num só lugar.
+- 
 ---
 
 
