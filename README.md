@@ -31,7 +31,6 @@ Busco oportunidades de **estágio em Desenvolvimento de Software**, com foco em 
 
 - **Tecnologias:** PHP, SQL, NOSQL, HTML, CSS, API Restful, Javascript.  
 - O intuito é criar um Website para candidatos igual a mim conseguirem uma vaga de estágio, vi que existe uma saturação de websites e quero contrubir e concentrar as vagas num só lugar.
-- 
 ---
 
 
