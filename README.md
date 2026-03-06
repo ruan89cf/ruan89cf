@@ -14,7 +14,7 @@ Busco oportunidades de **estágio em Desenvolvimento de Software**, com foco em 
 
 #### 1. [Website para Estágiarios - v0.1.0 — 03-03-2026 - Inicio do projeto. ](https://github.com/ruan89cf/stargio) 
 
-- **Tecnologias:** PHP, SQL, NOSQL, HTML, CSS, API Restful, Javascript.  
+- **Tecnologias:** PHP, SQL, NOSQL, HTML, CSS, API Restful, Javascript, Python.  
 - O intuito é criar um Website para candidatos igual a mim conseguirem uma vaga de estágio, vi que existe uma saturação de websites e quero contrubir e concentrar as vagas num só lugar.
 
 **Atualmente focado neste projeto**
