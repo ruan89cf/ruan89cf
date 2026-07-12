@@ -14,26 +14,9 @@ Tenho desenvolvido projetos pessoais e acadêmicos para aprimorar meus conhecime
 
 ### 🚀 Projetos Destacados
 
-#### 1. [Website STARGIO para Estagiários — v0.1.0](https://github.com/ruan89cf/stargio)
+#### 1. [MeetLove.app — Plataforma Full-Stack de Alto Nível](https://github.com/ruan89cf/meetlove.app)
 
-- **Tecnologias:** PHP, SQL, NoSQL, HTML, CSS, JavaScript, Python e APIs REST.
-- Plataforma criada com o objetivo de centralizar oportunidades de estágio e facilitar a conexão entre estudantes e empresas.
-- Projeto inspirado na minha própria experiência como estudante em busca da primeira oportunidade na área.
-
-#### 2. [Sistema de Encoding de Vídeos](https://github.com/ruan89cf/mp4_to_hls/)
-
-- **Tecnologias:** Shell, Java, PHP, MySQL, FFmpeg e TheMovieDB API.
-- Sistema automatizado para conversão de vídeos e geração de formatos compatíveis com streaming.
-- Possui integração com uma aplicação web para gerenciamento e organização dos arquivos processados.
-
-#### 3. [Website Responsivo para Projeto Acadêmico](https://tudocinema.w3spaces.com/)
-
-- **Tecnologias:** HTML, CSS e Bootstrap.
-- Site responsivo desenvolvido com foco em usabilidade, organização visual e adaptação para diferentes dispositivos.
-
-#### 4. [MeetLove.app — Plataforma Full-Stack de Alto Nível](https://github.com/ruan89cf/meetlove.app)
-
-O MeetLove.app é meu projeto mais ambicioso: uma plataforma de relacionamento criada para estudar a construção de um sistema distribuído, multiplataforma e preparado para execução em ambiente de nuvem.
+O [MeetLove.app](https://meetlove.app) é meu projeto mais ambicioso: uma plataforma de relacionamento criada para estudar a construção de um sistema distribuído, multiplataforma e preparado para execução em ambiente de nuvem.
 
 A concepção do produto, as funcionalidades, o design da aplicação, a lógica de matchmaking, a divisão dos microsserviços, a escolha das tecnologias e a estrutura planejada para hospedagem na AWS foram definidos e conduzidos por mim.
 
@@ -68,6 +51,26 @@ Minha atuação esteve principalmente na:
 - revisão do comportamento esperado do sistema.
 
 O projeto representa minha capacidade de pesquisar, definir requisitos, estruturar soluções complexas, conduzir uma ferramenta de IA e validar uma aplicação completa. Também reconheço que estou aprofundando meus conhecimentos de programação e trabalhando para reimplementar e compreender os módulos principais manualmente.
+
+
+#### 2. [Website STARGIO para Estagiários — v0.1.0](https://github.com/ruan89cf/stargio)
+
+- **Tecnologias:** PHP, SQL, NoSQL, HTML, CSS, JavaScript, Python e APIs REST.
+- Plataforma criada com o objetivo de centralizar oportunidades de estágio e facilitar a conexão entre estudantes e empresas.
+- Projeto inspirado na minha própria experiência como estudante em busca da primeira oportunidade na área.
+
+#### 3. [Sistema de Encoding de Vídeos](https://github.com/ruan89cf/mp4_to_hls/)
+
+- **Tecnologias:** Shell, Java, PHP, MySQL, FFmpeg e TheMovieDB API.
+- Sistema automatizado para conversão de vídeos e geração de formatos compatíveis com streaming.
+- Possui integração com uma aplicação web para gerenciamento e organização dos arquivos processados.
+
+#### 4. [Website Responsivo para Projeto Acadêmico](https://tudocinema.w3spaces.com/)
+
+- **Tecnologias:** HTML, CSS e Bootstrap.
+- Site responsivo desenvolvido com foco em usabilidade, organização visual e adaptação para diferentes dispositivos.
+
+
 ---
 
 ✨ **Vamos conversar?**
