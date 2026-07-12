@@ -33,24 +33,41 @@ Tenho desenvolvido projetos pessoais e acadêmicos para aprimorar meus conhecime
 
 #### 4. [MeetLove.app — Plataforma Full-Stack de Alto Nível](https://github.com/ruan89cf/meetlove.app)
 
-O MeetLove.app é meu projeto mais ambicioso, criado para estudar o desenvolvimento de uma aplicação moderna, distribuída e multiplataforma.
+O MeetLove.app é meu projeto mais ambicioso: uma plataforma de relacionamento criada para estudar a construção de um sistema distribuído, multiplataforma e preparado para execução em ambiente de nuvem.
 
-A plataforma simula uma aplicação real de relacionamento, com recursos de autenticação, descoberta de perfis, matching, chat, pagamentos, notificações, inteligência artificial e painel administrativo.
+A concepção do produto, as funcionalidades, o design da aplicação, a lógica de matchmaking, a divisão dos microsserviços, a escolha das tecnologias e a estrutura planejada para hospedagem na AWS foram definidos e conduzidos por mim.
+
+O projeto contempla:
 
 - **Backend:** Java 17, Spring Boot e arquitetura baseada em microsserviços.
-- **Serviço de IA:** Python, FastAPI e processamento assíncrono de dados.
+- **Serviço de IA:** Python e FastAPI.
 - **Aplicativo Android:** Kotlin, Jetpack Compose, MVVM e Hilt.
 - **Website/PWA:** PHP, HTML, CSS e JavaScript.
-- **Administração:** painel administrativo para usuários, moderação, planos e métricas.
-- **Dados:** MySQL, MongoDB e Redis.
-- **Comunicação:** RabbitMQ para processamento de eventos e tarefas assíncronas.
-- **Infraestrutura:** Docker Compose, Nginx, Prometheus, Grafana e ambiente hospedado na AWS.
-- **Funcionalidades estudadas:** autenticação com JWT, matching de perfis, chat em tempo real, planos Premium, notificações, moderação, métricas e integração com serviços externos.
+- **Painel administrativo:** gerenciamento de usuários, moderação, planos, métricas e infraestrutura.
+- **Bancos de dados:** MySQL, MongoDB e Redis.
+- **Mensageria:** RabbitMQ para eventos e processamento assíncrono.
+- **Infraestrutura:** Docker Compose, Nginx, Prometheus, Grafana e AWS.
+- **Funcionalidades:** autenticação, matching de perfis, chat, notificações, planos Premium, pagamentos, moderação e processamento de dados por IA.
 
-O projeto possui uma arquitetura composta por múltiplos serviços independentes, bancos SQL e NoSQL, mensageria, cache, monitoramento e diferentes interfaces de acesso.
+#### Meu processo de desenvolvimento com IA
 
-Utilizei ferramentas de Inteligência Artificial como apoio intensivo na pesquisa, especificação, geração inicial de código, documentação e investigação de erros. O projeto está em evolução e também representa meu processo de aprendizado sobre arquitetura, programação e validação de sistemas complexos.
+Este projeto foi desenvolvido com uso integral de ferramentas de **Inteligência Artificial** na geração do **código-fonte**.
 
+Minha atuação esteve principalmente na:
+
+- definição da ideia e dos objetivos do produto;
+- pesquisa de tecnologias e arquiteturas;
+- planejamento da divisão dos microsserviços;
+- definição da lógica de matchmaking;
+- direcionamento da experiência visual e do design;
+- planejamento da infraestrutura e da implantação na AWS;
+- criação das especificações e instruções para a IA;
+- análise dos erros encontrados;
+- validação das funcionalidades;
+- orientação das correções de bugs e ajustes necessários;
+- revisão do comportamento esperado do sistema.
+
+O projeto representa minha capacidade de pesquisar, definir requisitos, estruturar soluções complexas, conduzir uma ferramenta de IA e validar uma aplicação completa. Também reconheço que estou aprofundando meus conhecimentos de programação e trabalhando para reimplementar e compreender os módulos principais manualmente.
 ---
 
 ✨ **Vamos conversar?**
